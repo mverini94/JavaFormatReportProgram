@@ -1,0 +1,22 @@
+Pet Veterinarian Visit Report
+-----------------------------
+Veterinarian: Andrea Rodriguez
+Date        : 9/3/2018
+ 
+Pet Name    : Snickers
+Pet Species : Dog
+Pet Gender  : Male
+ 
+Procedures
+ 
+Name                               Price  Qty    Amount   Is Covered   Pct Covered   Amount Covered   Amount Due
+----                               -----  ---    ------   ----------   -----------   --------------   ----------
+Rabies Shot                        20.00    1      20.00        true          0.75            15.00         5.00
+Distemper/Parvo Combo              45.00    1      45.00       false          0.00             0.00        45.00
+Physical Therapy                  100.00    2     200.00        true          0.50           100.00       100.00
+Microchip                          19.00    1      19.00       false          0.00             0.00        19.00
+Neutering                         200.00    1     200.00        true          0.80           160.00        40.00
+X ray                             200.00    3     600.00        true          0.90           540.00        60.00
+Overnight Stay                    200.00    2     400.00        true          0.80           320.00        80.00
+----                               -----  ---     ------  ----------   -----------   --------------   ----------
+Total                                            1484.00                                    1135.00       349.00
